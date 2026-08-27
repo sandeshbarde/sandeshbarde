@@ -5,11 +5,11 @@
 <div align="center">
 
   <!-- Aesthetic Header Hero Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,24,30&height=220&section=header&text=Sandesh%20Vitthal%20Barde&fontSize=42&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=62&descSize=17&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,24,30&height=220&section=header&text=Sandesh%20Vitthal%20Barde&fontSize=42&fontAlignY=36&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Machine%20Learning%20%7C%20GenAI&descAlignY=62&descSize=17&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/sandeshbarde">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Passionate+About+Machine+Learning+%26+Deep+Learning;%F0%9F%A4%96+Building+Intelligent+LLM+%26+GenAI+Applications;%F0%9F%93%8A+Transforming+Raw+Data+into+Actionable+Insights;%F0%9F%8C%9F+Open+to+AI%2FData+Science+Collaborations+%26+Internships" alt="Dynamic Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Passionate+About+Machine+Learning+and+Deep+Learning;%F0%9F%A4%96+Building+Intelligent+LLM+and+GenAI+Applications;%F0%9F%93%8A+Transforming+Raw+Data+into+Actionable+Insights;%F0%9F%8C%9F+Open+to+AI+and+Data+Science+Opportunities" alt="Dynamic Subtitle" />
   </a>
 
   <br><br>
